@@ -1,0 +1,23 @@
+1-  Changing the innerHTML property of an HTML element is the most common way to display
+ data in HTML.
+
+2 - Use innerHTML when you want to change an HTML element.
+    Use innerText when you only want to change the plain text.
+
+3- For testing purposes, it is convenient to use document.write() 
+
+innerHTML
+innerText
+document.write()
+window.alert().
+alert()
+console.log().
+window.print()
+The only exception is that you can call the window.print() method in the browser to print the content of the current window.
+
+                                
+                                JavaScript Values
+                      The JavaScript syntax defines two types of values:
+
+                           1 - Literals (Fixed values)
+                           2 - Variables (Variable values)
