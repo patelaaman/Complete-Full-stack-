@@ -21,3 +21,9 @@ The only exception is that you can call the window.print() method in the browser
 
                            1 - Literals (Fixed values)
                            2 - Variables (Variable values)
+
+
+        
+    Languages are used to Write  Application 
+    * Every Launguage  has a Compiler  which  covert the  Developer code into 01
+    as Like a languages c, C++ ,java, javaScript, Golang ,Rust  
