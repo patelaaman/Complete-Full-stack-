@@ -27,3 +27,28 @@ The only exception is that you can call the window.print() method in the browser
     Languages are used to Write  Application 
     * Every Launguage  has a Compiler  which  covert the  Developer code into 01
     as Like a languages c, C++ ,java, javaScript, Golang ,Rust  
+
+Compiled and Interpreted Language 
+
+why js is Better then other language because of Browsers can only Understand HTML/CSS/JS (not Technically Ture)
+thanks To Node.js , javascript can also be usec For the "Backend Developer"
+
+Static and Dynamic 
+
+Single Threaded Nature of JS ( js is run a singal machine at a time and its means if you have a 10 line of code then java script run line by line and devide into two parts thats why its run too fast )
+                              jabki other languange mai ak sath code run hota hai to jada load leti hai machine 
+
+                            this is why it is considered to be a bad language for scable systems
+                            there is a way to make it use all cores of your machine 
+
+                            Simple Primitive 
+
+                             variable (let , var , const)
+                             data types - Strings , numbers, and Booleans
+                             if/else 
+                             Loops / For Loop 
+
+                             Complex Primitive 
+
+                             Array 
+                             Object 
