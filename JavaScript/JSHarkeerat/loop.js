@@ -10,7 +10,7 @@ for(i=0;i<=10;i++){
     for(i=0;i<ages.length;i++){
         console.log(ages[i]);
     } */
-
+//  Array 
     const personArray = [" Harkwerat", " aman", "priya"];
     const genderArray = ["Male", "male", "Female"];
     const numberOfUser = personArray.length;
@@ -21,3 +21,5 @@ for(i=0;i<=10;i++){
         }
 
     }    
+
+// object 
