@@ -1,5 +1,7 @@
 // Function 
-
+/*  A Function in java Script is a set of Statement that performs a task or calculates a value
+    it should take some Input and return an output where there is some obvious raletionship between the input and the output 
+*/
 // Synchronous FUnction
 
 // all the statementd all code running line by line (it means dusri line tabhi execute hogi jab pahli line completely execute hojaye)
@@ -68,3 +70,21 @@ function greet(){
 }
 
 setTimeout(greet, 1*4000);
+
+
+// normal exmple of call back Function 
+// find the square of a number using call back function
+function square(n){
+    return n*n;
+}
+// find the sum of the square of  the input 
+function sumOfSquare(a,b){
+    let val1 = square(a);
+    let val2 = square(b);
+    let sum = val1 + val2 ; 
+
+    return sum;
+}
+
+console.log(sumOfSquare(3,4));
+// find the sum of the square of 

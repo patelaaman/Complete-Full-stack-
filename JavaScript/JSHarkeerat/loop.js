@@ -1,4 +1,4 @@
-// loop are Iterate the program for a specific number of times or until a specific condition is met 
+ // loop are Iterate the program for a specific number of times or until a specific condition is met 
 
 /* let answer = 0 ;
 for(i=0;i<=10;i++){
